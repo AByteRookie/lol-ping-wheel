@@ -9,9 +9,9 @@
 
 ---
 
-## 三种安装方式（挑一种）
+## 三种安装方式
 
-### 方式一：用户脚本（最省事，推荐）
+### 方式一：用户脚本
 
 需要先装 [Tampermonkey 篡改猴](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)。
 
